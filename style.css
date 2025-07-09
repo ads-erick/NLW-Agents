@@ -7,7 +7,7 @@
 body {
     background-image: url(./assets/bg.jpg);
     background-repeat: no-repeat; 
-    background-image: cover; 
+    background-size: cover; 
     background-position: top center; 
     background-color: #121214; 
     color: white;
